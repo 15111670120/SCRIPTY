@@ -1,0 +1,7 @@
+version: 2
+
+exclude_patterns:
+  - example/
+  - node_modules/
+  - test/
+  - "**/*.test.js"
